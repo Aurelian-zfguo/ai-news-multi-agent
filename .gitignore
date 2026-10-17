@@ -1,0 +1,21 @@
+# 环境与密钥
+.env
+.venv/
+venv/
+
+# CrewAI 运行时产物
+.checkpoints/
+
+# 运行日志
+run_log*.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+
+# 其它
+.DS_Store
